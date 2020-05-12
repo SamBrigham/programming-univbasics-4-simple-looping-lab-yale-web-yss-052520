@@ -16,4 +16,8 @@ def loop_message_n_times(string, integer)
   break if counter > integer
 end
 end
-p loop_message_five_times("bob")
+
+def output_array(array)
+  counter = 0
+  while 
+
