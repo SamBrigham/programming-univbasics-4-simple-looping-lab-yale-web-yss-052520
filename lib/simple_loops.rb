@@ -8,10 +8,10 @@ def loop_message_five_times(string)
 end
 end
 
-def loop_message_five_times(string, integer)
+def loop_message_five_times(string2, integer)
   counter2 = 0
-  while string
-  puts string
+  while string2
+  puts string2
   counter2 += 1
   break if counter2 > integer
 end
