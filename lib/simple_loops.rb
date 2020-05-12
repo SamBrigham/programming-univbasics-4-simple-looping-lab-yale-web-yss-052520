@@ -8,7 +8,7 @@ def loop_message_five_times(string)
 end
 end
 
-def loop_message_n_times(string2, integer)
+def loop_message_n_times(string, integer)
   counter = 0
   while string
   puts string
