@@ -26,6 +26,5 @@ def output_array(array)
 end
 end
 
-array = ["bob", "mike", "dan"]
-p output_array(array)
+
 
