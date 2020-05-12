@@ -7,3 +7,12 @@ def loop_message_five_times(string)
   break if counter > 5
 end
 end
+
+def loop_message_five_times(string, integer)
+  counter = 0
+  while string
+  puts string
+  counter += 1
+  break if counter > integer
+end
+end
